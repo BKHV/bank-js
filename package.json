@@ -1,10 +1,10 @@
 {
-  "name": "world-js",
+  "name": "bank-js",
   "version": "3.0.0",
-  "homepage": "https://github.com/anvoz/world-js",
+  "homepage": "https://github.com/bkhv/bank-js",
   "author": {
-    "name": "An Vo",
-    "email": "anvo4888@gmail.com"
+    "name": "Igor",
+    "email": "igor.barkhatov@gmail.com"
   },
   "license": {
     "mit": {
