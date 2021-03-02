@@ -1,9 +1,9 @@
 /*!
  * world.language.js
- * Define language of a world.
+ * Define language of a Bank.
  *
  * https://github.com/anvoz/world-js
- * Copyright (c) 2013-2014 An Vo - anvo4888@gmail.com
+ * Copyright (c) 2021 Igor - igor.barkhatov@gmail.com
  * Licensed under MIT (http://www.opensource.org/licenses/mit-license.php)
  */
 
