@@ -129,7 +129,6 @@ define(function(require) {
 
     world.event   = new Event(world);
     //world.Female  = Female;
-    world.Female  = Male;
     world.Male    = Male;
     world.tile    = new Tile(world);
   };
