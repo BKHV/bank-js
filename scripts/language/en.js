@@ -14,11 +14,11 @@ define(function() {
 
   var Language = {
     introPhysicsQuote:
-"«для доставления через то средств к сбережению верным и выгодным способом».",
+"Для доставления через то средств к сбережению верным и выгодным способом",
     introPhysicsAuthor:
 "Николай I - Российский Император",
     introPhysics01:
-"12 ноября 1841 года российским императором Николаем I был подписан указ об учреждении в России сберегательных касс.",
+"12 ноября 1841 года подписал указ об учреждении в России сберегательных касс.",
     introPhysics02:
 "In this first story of our universe - which is called Physics - space, time, matter, energy are formed and start interacting with one another.",
 
