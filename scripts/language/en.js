@@ -14,9 +14,9 @@ define(function() {
 
   var Language = {
     introPhysicsQuote:
-"From nothing, our universe begins.",
+"12 ноября 1841 года российским императором Николаем I был подписан указ об учреждении в России сберегательных касс «для доставления через то средств к сбережению верным и выгодным способом».",
     introPhysicsAuthor:
-"A Short History of Nearly Everything by Bill Bryson",
+"Николай I - Российский Император",
     introPhysics01:
 "About 13 billion years ago, matter comes into existence in what is known as the Big Bang.",
     introPhysics02:
