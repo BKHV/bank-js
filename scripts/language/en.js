@@ -20,7 +20,7 @@ define(function() {
     introPhysics01:
 "12 ноября 1841 года подписал указ об учреждении в России сберегательных касс.",
     introPhysics02:
-"In this first story of our universe - which is called Physics - space, time, matter, energy are formed and start interacting with one another.",
+"Через несколько месяцев, 1 марта 1842 г., служащий Ссудной казны Николай Кристофари переступил порог только что открывшейся кассы в Петербурге.",
 
     introChemistryQuote:
 "It really is the most poetic thing I know about physics: You are all stardust.",
