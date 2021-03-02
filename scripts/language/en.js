@@ -57,8 +57,8 @@ define(function() {
 "For any feedback or ideas, please email me at anvo4888@gmail.com.",
 
     storyBegin01:
-"About 250,000 years ago, our ancestors begin their lives in East Africa.<br>\
-They have extraordinary large brains and the ability of walking upright.",
+"Сбербанк является историческим преемником основанных указом императора Николая I Сберегательных касс,<br>\
+ которые поначалу были лишь двумя маленькими учреждениями с 20 сотрудниками в Санкт-Петербурге и Москве.",
     storyBegin02:
 "Therefore they are less muscular and born prematurely.<br>\
 They need to evolve stronger social ties and start living in small bands.",
