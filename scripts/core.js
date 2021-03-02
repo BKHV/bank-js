@@ -12,7 +12,7 @@ define(function(require) {
   'use strict';
 
   var Event   = require('./event');
-  var Female  = require('./female');
+  //var Female  = require('./female');
   var Male    = require('./male');
   var Seed    = require('./seed');
   var Tile    = require('./tile');
@@ -128,7 +128,8 @@ define(function(require) {
     world.fps = 0;
 
     world.event   = new Event(world);
-    world.Female  = Female;
+    //world.Female  = Female;
+    world.Female  = Male;
     world.Male    = Male;
     world.tile    = new Tile(world);
   };
