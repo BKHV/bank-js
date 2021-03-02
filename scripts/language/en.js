@@ -60,8 +60,8 @@ define(function() {
 "Сбербанк является историческим преемником основанных указом императора Николая I Сберегательных касс,<br>\
  которые поначалу были лишь двумя маленькими учреждениями с 20 сотрудниками в Санкт-Петербурге и Москве.",
     storyBegin02:
-"Therefore they are less muscular and born prematurely.<br>\
-They need to evolve stronger social ties and start living in small bands.",
+"Затем они разрослись в сеть сберегательных касс, работавших по всей стране <br>\
+и даже в трудные времена помогавших сохранить устойчивость российской экономики.",
 
     storyEnd01:
 "Humans simply destroy everything that stands in their paths.<br>\
