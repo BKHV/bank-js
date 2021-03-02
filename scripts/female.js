@@ -109,7 +109,7 @@ define(function(require) {
     female.move(speed, false);
 
     if (female.carrying === false && typeof world.items !== 'undefined') {
-      if (Math.random() < 0) {
+      if (Math.random() < 0.2) {
         if (female.age > female.maxChildAge) {
           var who  = (female.relationSeed === false) ? 'woman' : 'wife';
           var when = (female.isMoving) ? 'moving' : 'standing';
