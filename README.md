@@ -1,20 +1,12 @@
-World JS: History Simulation [![Build Status](https://travis-ci.org/anvoz/world-js.png?branch=master)](https://travis-ci.org/anvoz/world-js)
+Bank JS: History Simulation 
 ========
 
-`World JS` is an attempt to show you a brief history of humankind via a simulation game.
+`Bank JS` is an attempt to show you a brief history of humankind via a simulation game.
 
 This project was inspired from what I have learned from [A Brief History of Humankind](https://www.coursera.org/course/humankind) by Dr. Yuval Noah Harari.
 
 ![Screenshot of version 2.4 on medium screen size](https://f.cloud.github.com/assets/4688035/1744790/b787836c-6423-11e3-8762-4b4f6f482324.PNG "Screenshot of version 2.4 on medium screen size")
 
-## Developer Guidelines
-
-### Getting Started
-Read this [wiki page about how it works](https://github.com/anvoz/world-scripts/wiki) before you do anything else.
-
-* [Code conventions](https://github.com/anvoz/world-scripts/wiki/Code-Conventions)
-* [Change log](https://github.com/anvoz/world-scripts/wiki/Change-Log)
-* [Benchmark](https://github.com/anvoz/world-scripts/wiki/Benchmark)
 
 ### Modules
 * World JS: Create a world where people live and reproduce.
@@ -57,6 +49,4 @@ world.addSeed(world.Female, {age: 25});
 
 ## License
 
-Copyright An Vo [@an_voz](https://twitter.com/an_voz), 2013-2014.
-
-Licensed under [MIT](http://www.opensource.org/licenses/mit-license.php).
+Copyright BKHV
