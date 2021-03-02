@@ -22,7 +22,7 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
     banner: {
       wjs: '/*!\n' +
-        ' * World JS\n' +
+        ' * Bank JS\n' +
         ' * Version <%= pkg.version %>\n' +
         ' *\n' +
         ' * <%= pkg.homepage %>\n' +
@@ -30,7 +30,7 @@ module.exports = function(grunt) {
         ' * Licensed under <%= pkg.license.mit.name %> (<%= pkg.license.mit.url %>)\n' +
         ' */\n',
       wjs_hs: '/*!\n' +
-        ' * World JS: History Simulation\n' +
+        ' * Bank JS: Симуляция кредитования\n' +
         ' * Version <%= pkg.version %>\n' +
         ' *\n' +
         ' * <%= pkg.homepage %>\n' +
