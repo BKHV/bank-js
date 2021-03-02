@@ -17,7 +17,7 @@ define(function(require) {
 
   var Interface = {};
   var cache     = {
-    statistic1: {
+    statistic: {
       year: 0,
       population: 0,
       men: 0, women: 0, boys: 0, girls: 0,
