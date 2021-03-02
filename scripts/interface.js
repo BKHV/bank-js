@@ -4,7 +4,7 @@
  * Define some basic UI interactions.
  *
  * https://github.com/anvoz/world-js
- * Copyright (c) 2013-2014 An Vo - anvo4888@gmail.com
+ * Copyright (c) 2013-2014 Igor - igor.barkhatov@gmail.com
  * Licensed under MIT (http://www.opensource.org/licenses/mit-license.php)
  */
 
@@ -223,7 +223,7 @@ define(function(require) {
 
     // Add completed knowledge to knowledge history container
     var html = [
-      '<div class="knowledge">',
+      '<div class="knowledge">1212212',
         '<div class="knowledge-name">',
           (cached.statistic.year.value + 1) + ': ' + knowledge.name,
         '</div>',
@@ -361,16 +361,16 @@ define(function(require) {
         break;
       case 4:
         $this.find('p:first').html(Language.introGame01.replace(
-          'World JS',
-          '<span class="label label-danger">World JS</span>'
+          'Bank JS',
+          '<span class="label label-danger">Bank JS</span>'
         ));
         $this.find('p:first').next().html(Language.introGame02.replace(
           'the cognitive revolution',
           '<span class="label label-info">the cognitive revolution</span>'
         ));
         $this.find('p:last').html(Language.introGame03.replace(
-          'anvo4888@gmail.com',
-          '<a href="mailto: anvo4888@gmail.com">anvo4888@gmail.com</a>'
+          'igor.barkhatov@gmail.com',
+          '<a href="mailto: igor.barkhatov@gmail.com">igor.barkhatov@gmail.com</a>'
         ));
         break;
     }
