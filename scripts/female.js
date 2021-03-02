@@ -3,7 +3,7 @@
  * Female extends Seed class.
  *
  * https://github.com/anvoz/world-js
- * Copyright (c) 2013-2014 An Vo - anvo4888@gmail.com
+ * Copyright (c) 2021 Igor Barkhatov - igor.barkhatov@gmail.com
  * Licensed under MIT (http://www.opensource.org/licenses/mit-license.php)
  */
 
@@ -30,7 +30,8 @@ define(function(require) {
 
     Seed.call(female, data);
 
-    female.maxChildAge = 15;
+    //female.maxChildAge = 15;
+    female.maxChildAge = 0;
 
     // Total children that she gave birth
     // Need to be set from undefined to 0 right after her first marriage
